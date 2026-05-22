@@ -98,7 +98,7 @@ def run(args):
             service_costs[service_name] += cost
     
     # Print header
-    print(f"Cost for {tag_key}={tag_value} over last {args.days} days ({start_date} → {end_date}):")
+    print(f"Cost for {tag_key}={tag_value} over last {args.days} days ({start_date} -> {end_date}):")
     print("-" * 60)
     
     # Sort by cost descending and print
