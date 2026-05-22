@@ -1,0 +1,3 @@
+EC2 (no filters) — 1 found:
+------------------------------------------------------------------------------
+  i-08ea6f3f2a2cbc7c2           t3.micro       running         Owner=huutai.ngo2409@gmail.com Application=AAP-CarApp CostCenter=G2 Environment=dev

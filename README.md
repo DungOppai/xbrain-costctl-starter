@@ -278,17 +278,20 @@ Add a `REFLECTIONS.md` to your repo. Sample prompts:
 - [x] Implement ≥ 2 of (`cost`, `terminate`, `tag`) — `terminate` tests green if you pick it
 - [x] **`clean` → `pytest tests/test_clean.py` green (4 more pass) — all 25/25 COMPLETE**
 - [x] `make test` final score: **25/25 passing** ✅
-- [ ] Replace `sample_output/*_example.txt` with real outputs from your account
+- [x] Replace `sample_output/*_example.txt` with real outputs from your account
 - [x] `REFLECTIONS.md` with 2+ answers
-- [ ] At least 3 meaningful commits (init → first command working → final polish)
-- [ ] Replace `g2` placeholders throughout README with your real group number
-- [ ] Add Team section with member names
-- [ ] Tag: `git tag w6-sidechallenge-v1 && git push --tags`
-- [ ] Post link in Slack `#w6-sidechallenge` thread:
+- [x] At least 3 meaningful commits (init → first command working → final polish)
+- [x] Replace `g2` placeholders throughout README with your real group number
+- [x] Add Team section with member names
+- [x] Tag: `git tag w6-sidechallenge-v1 && git push --tags`
+- [x] Post link in Slack `#w6-sidechallenge` thread:
       `G2 — https://github.com/DungOppai/xbrain-costctl-starter.git — 25/25 tests passing — implemented: list, cost, terminate, tag, clean`
 
 Reminder: **OPTIONAL and does NOT count toward W6 score.** Recognition is
 separate (Slack callout / Phase 2 selection / portfolio).
+
+25/25 tests passing
+Implemented: list, terminate, tag, clean
 
 ---
 
